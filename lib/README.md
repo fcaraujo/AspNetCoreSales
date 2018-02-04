@@ -1,0 +1,1 @@
+Things that can **NEVER** exist in a nuget package, like Oracle.DataAccess or another assembly
