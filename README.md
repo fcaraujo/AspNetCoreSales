@@ -1,2 +1,2 @@
 # AspNetCoreSales
-My current .Net Core project structure sample with xUnit tests
+My current .Net Core 2 Solution structure sample with xUnit test projects
