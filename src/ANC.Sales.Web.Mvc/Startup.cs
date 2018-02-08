@@ -40,6 +40,9 @@ namespace AspNetCoreSales
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             
             services.AddMvc();
+
+            // Register safe configuration as a Singleton to be able to be injected at services
+            // services.AddSingletonConfiguration<IExternalRouteConfiguration, ExternalRouteConfiguration>(Configuration.GetSection(EXTERNAL_ROUTES));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
