@@ -1,5 +1,3 @@
-using ANC.Sales.Web.Mvc.Services.Contracts;
-
 namespace ANC.Sales.Web.Mvc.Configuration.Contracts
 {
     /// <summary>

@@ -17,7 +17,6 @@
     <ProjectReference Include="..\ANC.Sales.Core.Test\ANC.Sales.Core.Test.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Extensions\" />
     <Folder Include="Helpers\" />
     <Folder Include="Wrappers\" />
   </ItemGroup>

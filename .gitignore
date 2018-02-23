@@ -360,8 +360,9 @@ Obj/
 
 # Visual Studio 2015 cache/options directory
 .vs/
-/wwwroot/dist/
-/ClientApp/dist/
+src/**/wwwroot/dist/
+src/**/ClientApp/dist/
+
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
